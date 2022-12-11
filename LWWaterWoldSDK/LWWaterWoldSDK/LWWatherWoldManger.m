@@ -21,7 +21,6 @@
 
 - (void)test{
     NSLog(@"调用了test");
-    NSLog(@"第二次调用了test");
 }
 
 @end
