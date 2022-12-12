@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.h
-//  LWWaterWold
+//  LWWaterWoldSDK
 //
-//  Created by  LW on 2022/12/11.
+//  Created by  LW on 2022/12/12.
 //
 
 #import <UIKit/UIKit.h>
